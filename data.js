@@ -2,14 +2,14 @@
 var CONFIG={
   name:"Mafikeng Wheels Car Rental",
   api:"",                   // "" = same site. If the site is on GitHub Pages, put your API address here, e.g. "https://mafikeng-wheels.vercel.app"
-  whatsapp:"+27 66 101 1301",   // TODO: real number, format 27XXXXXXXXX
+  whatsapp:"+27661011301",   // WhatsApp number: no spaces, use country code +27 followed by 9 digits
   phone:"+27 84 345 4872",  // TODO
   deliveryFee:100,          // TEMP: set 0 for no delivery fee
   deliveryAreas:"Mafikeng and Mmabatho",
   depositPct:0.3,           // TEMP: share of total paid online as the deposit
   longTermDays:30,longTermDiscount:0.1 // TEMP: long-term = 30+ days, 10% off
 };
-// TEMP prices: replace with the Daily_Rate values from the database.
+// TEMP prices: replace with the Daily_Rate values from the Daily_Rate values from the database.
 var CATEGORIES=[
   {id:1,name:"Economy",desc:"Small, fuel-efficient and budget friendly. Great for students.",rate:350,icon:"🚗"},
   {id:2,name:"Standard",desc:"Comfortable everyday cars for work and family.",rate:550,icon:"🚙"},
