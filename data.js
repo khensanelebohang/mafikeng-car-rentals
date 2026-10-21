@@ -2,7 +2,7 @@
 var CONFIG={
   name:"Mafikeng Wheels Car Rental",
   api:"",                   // "" = same site. If the site is on GitHub Pages, put your API address here, e.g. "https://mafikeng-wheels.vercel.app"
-  whatsapp:"+27 67 316 3109",   // TODO: real number, format 27XXXXXXXXX
+  whatsapp:"+27 66 101 1301",   // TODO: real number, format 27XXXXXXXXX
   phone:"+27 84 345 4872",  // TODO
   deliveryFee:100,          // TEMP: set 0 for no delivery fee
   deliveryAreas:"Mafikeng and Mmabatho",
